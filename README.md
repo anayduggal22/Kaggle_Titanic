@@ -91,4 +91,10 @@ jupyter
 
 ---
 
-*Part of my self-taught Data Science roadmap — Phase 6: Kaggle EDA + Portfolio*
+## 👨‍💻 Author
+
+**Anay Duggal**
+
+---
+
+⭐ If you found this project helpful, consider giving it a star!
