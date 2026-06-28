@@ -6,7 +6,6 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 
 > End-to-end Kaggle competition notebook — EDA, feature engineering, modeling, and submission.  
-> Part of my Phase 6 Data Science Roadmap.
 
 ---
 
@@ -57,6 +56,12 @@ kaggle-titanic/
 - Average passenger age was ~30
 - Class 3 had the most passengers but Class 1 had the highest survival rate
 - Female survival rate was ~2.5x higher than male survival rate
+
+---
+
+## 📈 Feature Importance
+
+![Feature Importance](feature_importance.png)
 
 ---
 
